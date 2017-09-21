@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Jinal Parikh
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Hi, I am a Technology Analyst Intern at Morgan Stanley. I'm one of the recipient of the Google Women Techmakers Scholarship 2017. Apart from tech stuff, I love to paint and read!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://drive.google.com/open?id=0B2RgvkSbNCCaSFVKMGU1aWVOUHM
 
 #
 # Flags below are optional
@@ -18,18 +18,18 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: jinalparikh410@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: jasm123
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: u/0/+JinalParikh41
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
